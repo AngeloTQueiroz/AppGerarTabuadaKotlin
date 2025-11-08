@@ -1,18 +1,21 @@
-Como Usar
+🧮 App Tabuada
+Um aplicativo Android simples para calcular tabuadas.
+
+✨ Funcionalidades
+Calcula a tabuada completa de qualquer número
+
+Mostra multiplicações de 0 a 10
+
+Interface limpa e fácil de usar
+
+🚀 Como Usar
 Digite um número no campo
 
-Clique no botão "Calcular"
+Toque no botão "Calcular"
 
-Veja a tabuada completa de 0 a 10
+Veja a tabuada completa abaixo
 
-Funcionalidades
-Calcula a tabuada de qualquer número
-
-Mostra todas as multiplicações de 0 até 10
-
-Interface simples e fácil de usar
-
-Tecnologias
+🛠️ Tecnologias
 Kotlin
 
 Android Studio
